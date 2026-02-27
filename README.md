@@ -248,8 +248,14 @@ br.usuario.clinica/
 Este projeto é fornecido como está para fins educacionais e comerciais.
 
 ## 👨‍💻 Autor
-
+Mateus Silva
 Desenvolvido como sistema de gestão de boards Kanban.
+
+---
+
+## 📈 Melhorias futuras
+
+Criar uma interface gráfica com Swing.
 
 ---
 
